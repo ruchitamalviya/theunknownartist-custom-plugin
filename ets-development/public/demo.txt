@@ -1,0 +1,4 @@
+nav.navigation
+nav.navigation a.next
+article.post
+#main

@@ -1,0 +1,59 @@
+/*.usre_bp_profile_meta {
+  display: flex;
+  max-width: 1140px !important;
+  flex-direction: row;
+  border:2px solid green;
+  margin: -142px auto 0 !important;
+
+}
+.ets_profile_main{
+  width: 28%;
+  display: block;
+  margin-left: 45px;
+}
+.pro_share_btn{
+  width: 100%;
+  display: block;
+  padding:10px 0;
+  text-align: center;
+}
+.pro_follow{
+  width: 250px !important;
+  height: 44px;
+  margin:10px 0px;
+  background: linear-gradient(90deg, #4010A1 1.04%, #C84E89 37.5%, #F15F79 62.5%, #F79100 98.96%) !important;
+  border-radius: 36px !important;
+}
+.pro_follow a{
+  color: #ffffff !important;
+}
+.pro_message{
+  width: 250px !important;
+  height: 44px;
+  background:#ffffff !important;
+  border-radius: 36px !important;
+  margin: 10px 0;
+}
+.user_bio_container{
+  width:100%;
+  padding: 10px 5px;
+}
+.usr_bio{
+  color:#333333;
+  font-size:22px;
+  font-style:normal;
+  font-weight:bold;
+}
+.bio_detail{
+  color: #444444;
+  font-family: Open Sans;
+  font-weight: normal;
+  font-size: 16px;
+}
+.proflie_tab{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid green;
+  margin-top: 8px;
+  }*/
